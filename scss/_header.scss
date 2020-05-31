@@ -1,0 +1,15 @@
+.header {
+  background-color: $main-color;
+  padding: 10px 0;
+  color: rgb(255, 253, 253);
+
+  &--content {
+    display: flex;
+  }
+
+  &--logo {
+    margin-right: $main-spacing/2;
+    width: 40px;
+    height: 40px;
+  }
+}

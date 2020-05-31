@@ -1,0 +1,18 @@
+.container {
+  max-width: $max-width;
+  width: 100%;
+  margin: 0 auto;
+  padding: 0 $main-spacing;
+}
+
+img {
+  max-width: 100%;
+}
+
+.app--description {
+  margin: $main-spacing/2 0;
+}
+
+footer {
+  height: 10vh;
+}
